@@ -2,6 +2,6 @@
 public class hi {
 
 	public static void main(String[] args) {
-	System.out.println("hello ur bad"); }
+	System.out.println("come back asap"); }
 	
 }
